@@ -21,13 +21,30 @@
   padding: 10px 15px;
   border-radius: 4px;
   margin: 5px;
+  width: auto;
 }
 
-.mcSignUp {
-	padding-top: 20px;
-	padding-bottom: 20px;
+.mailChimp {
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
  
 
+.mailChimpBox {
+	border-radius: 3px;
+	border: 1px solid #fff;
+	box-shadow: none;
+	height: 2em;
+	width: 30em;
+  }
 
-  
+.mcText {
+ font-family: 'Roboto', sans-serif; 
+  }
+
+.mcButton {
+	border-radius: 4px;
+	background: #f15f4c;
+	color: #fff;
+	border: 1px solid #ee3d26;
+}
